@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../JQuery"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web-dev projects"
+	}
+}
